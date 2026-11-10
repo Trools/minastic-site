@@ -1,8 +1,8 @@
 # Minastic family site
 
 Static site for the Minastic apps (Run, Lift, Ride): `/`, `/privacy/`, `/terms/`, `/ai/`, `/delete/` and `404.html`.
-Plain HTML and one CSS file (`assets/style.css`). No build step, no JavaScript, no cookies, no trackers. The only
-outside request is Google Fonts (Archivo).
+Plain HTML and one CSS file (`assets/style.css`). No build step, no JavaScript, no cookies, no trackers. No outside requests:
+Archivo (SIL OFL 1.1) is served from `assets/fonts/`.
 
 Replaces Run's older site `https://trools.github.io/stamina-site/` (its pages redirect here).
 
