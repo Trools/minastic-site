@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Minastic Lift symbol</title>
+  <g id="symbol">
+    <path id="kettlebell" fill="#3DDC97" fill-rule="evenodd" d="M140.95 22 L112 22 A43 43 0 0 0 69 65 L69 102.62 A83 83 0 0 0 80.92 229.35 A15 15 0 0 0 89.43 232 L166.57 232 A15 15 0 0 0 175.08 229.35 A83 83 0 0 0 187 102.62 L187 68.05 A3 3 0 0 0 182.01 65.8 A27.5 27.5 0 0 1 160.37 72.49 A3 3 0 0 0 157 75.46 L157 83.23 A83 83 0 0 0 99 83.23 L99 65 A13 13 0 0 1 112 52 L133.54 52 A3 3 0 0 0 136.51 48.63 A27.5 27.5 0 0 1 143.2 26.99 A3 3 0 0 0 140.95 22 Z M161.59 202 A53 53 0 1 0 94.41 202 L161.59 202 Z"/>
+    <path id="dot" fill="#FF6B4A" d="M144.3 45.2 A19.5 19.5 0 1 1 183.3 45.2 A19.5 19.5 0 1 1 144.3 45.2 Z"/>
+  </g>
+</svg>

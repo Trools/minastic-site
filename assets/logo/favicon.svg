@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title">
+  <title id="title">Minastic</title>
+  <rect id="tile" width="256" height="256" rx="48" fill="#0E0F13"/>
+  <g id="symbol">
+    <path id="track" fill="#3DDC97" d="M239.33 137.52 A68 68 0 0 1 172 196 L84 196 A68 68 0 0 1 84 60 L172 60 A68 68 0 0 1 186.08 61.47 A4 4 0 0 1 187.92 68.37 A40 40 0 0 0 175.68 88.92 A4 4 0 0 1 171.79 92 L84 92 A36 36 0 0 0 84 164 L172 164 A36 36 0 0 0 205.76 140.49 A4 4 0 0 1 209.98 137.91 A40 40 0 0 0 233.48 133.44 A4 4 0 0 1 239.33 137.52 Z"/>
+    <path id="dot" fill="#FF6B4A" d="M192.6 98.17 A22 22 0 1 1 236.6 98.17 A22 22 0 1 1 192.6 98.17 Z"/>
+  </g>
+</svg>
